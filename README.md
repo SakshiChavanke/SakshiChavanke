@@ -1,6 +1,6 @@
 # Welcome to My Awesome Profile! 🚀
 
-<img src="./github-header-image.png" alt="Profile Banner" width="100%" height="200">
+<img src="./github-header-image.png" alt="Profile Banner" width="100%" height="250">
 
 
 
