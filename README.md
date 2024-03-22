@@ -1,6 +1,6 @@
 # Welcome to My Awesome Profile! 🚀
 
-![Profile Banner](./your-header-image-name.png)
+![Profile Banner](./github/your-header-image-name.png)
 
 
 
